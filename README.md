@@ -3,7 +3,7 @@
 ## Student Information
 - **Name:** Michelle Medina
 - **Section:** CCIS7E
-- **Course:** BSIT-NetAd
+- **Course:** BSIT-Network Administration
 - **Date:** September 6, 2026
 
 ## Project Description
