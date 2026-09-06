@@ -45,7 +45,7 @@ Network traffic is regulated using explicit inbound and outbound security rules:
 Student data must be encrypted **in-transit** (using HTTPS/TLS) to prevent eavesdropping during transmission, and **at-rest** (using AES-256) to protect stored database files from unauthorized physical or disk-level inspection.
 
 ### Logging
-System activities, including user authentication logs, administrative actions, network flow logs, and database access logs, must be recorded to maintain a detailed audit trail.
+System activities, including user administrative actions, authentication logs, network flow logs, and database access logs, must be recorded to maintain a detailed audit trail.
 
 ### Monitoring
 Real-time monitoring tools analyze logs to detect suspicious behavior, such as multiple failed login attempts, unexpected spikes in traffic, or unauthorized access requests, triggering immediate security alerts.
